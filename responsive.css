@@ -1,0 +1,161 @@
+@media screen and (min-width: 200px) and (max-width: 640px){
+
+body {
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.center {
+    color: #012935;
+    font-size: 2em;
+}
+
+
+.fond {
+    background-image: none;
+    background-color: #ffffff;
+    height: 100vh;
+    padding-top: 50px;
+  
+}
+
+nav ul {
+    display: block;
+}
+
+.logo {
+    width: 10%;
+}
+
+.header-bottom {
+    display:block;
+    justify-content: center;
+    position:absolute;
+    bottom:0;
+    margin: 0;
+    right: 0;
+    left:0;
+
+}
+
+/* ACCROCHE */
+
+.accroche {
+   
+    display: inline;
+    padding-bottom: 100px;
+    padding-top: 100px;
+
+}
+
+.accroche-surfer{
+
+    width: 100vh;
+}
+
+.surfer {
+    width: 100%;
+}
+
+.presentation{
+    padding: 10px;
+}
+
+
+ /* NOS COURS */
+
+.packs {
+   
+    padding:20px;
+  
+}
+
+.nos-cours {
+    display: block;
+  
+}
+
+.cours {
+    width:100%;
+   
+}
+
+.cours a {
+
+    background-color: #ADC0BD;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* SURFBLOG */
+
+.surf-blog {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    padding:100px;
+    background-color: #396F72;
+}
+
+.titre img {
+    width: 20%;
+    padding: 20px;
+}
+.titre {
+    padding-bottom: 30px;
+}
+
+
+.article {
+    display: block;
+    justify-content: center;
+}
+
+.article img {
+    width: 80%;
+}
+.txt-blc {
+    color: #ffffff;
+}
+
+.titre img {
+    width: 60%;
+    padding: 20px;
+}
+
+/*NEWSLETTER*/
+
+.newsletter {
+
+   flex-direction: column-reverse;
+}
+
+/*FOOTER*/
+
+footer {
+    display: block;
+    align-content: center;
+}
+
+.footer-menu {
+    text-align: center;
+}
+
+footer h2 {
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+  }
